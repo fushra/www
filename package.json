@@ -1,0 +1,23 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "memlc --file index.meml --src ./src --out ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fushra/www.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fushra/www/issues"
+  },
+  "homepage": "https://github.com/fushra/www#readme",
+  "devDependencies": {
+    "meml": "fushra/meml"
+  }
+}

@@ -1,0 +1,21 @@
+(head
+    (title "Fushra | Home")
+    // (link rel="preconnect" href="https://fonts.gstatic.com")
+    // (link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet")
+)
+(body
+    (header
+        (div
+            (h1 "Fushra")
+            (p "Creating a simpler web for everyone")
+            (p
+                (a href="https://github.com/fushra/meml" "MEML prototype") " • "
+                (a href="https://github.com/fivnex/meml/blob/master/docs/syntaxStandard.md" "MEML standard") " • "
+                (a href="https://discord.gg/xNkretH7sD" "Fushra Discord") " • "
+                (a href="https://link.fivnex.co/join" "Fivnex discord")
+            )
+        )
+    )
+
+    (import "./index.css")
+)
