@@ -2,7 +2,7 @@
     (title "Fushra | Home")
     // (link rel="preconnect" href="https://fonts.gstatic.com")
     // (link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet")
-    "<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "2e43d9440690412393887a2b38c21057"}'></script><!-- End Cloudflare Web Analytics -->"
+    // "<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token":"2e43d9440690412393887a2b38c21057"}'></script>"
 )
 (body
     (header
