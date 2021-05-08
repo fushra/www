@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "memlc --file index.meml --src ./src --out ./dist"
+    "build": "tree node_modules && memlc --file index.meml --src ./src --out ./dist"
   },
   "repository": {
     "type": "git",
