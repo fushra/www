@@ -2,7 +2,12 @@
     (title "Fushra | Home")
     // (link rel="preconnect" href="https://fonts.gstatic.com")
     // (link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet")
-    // "<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token":"2e43d9440690412393887a2b38c21057"}'></script>"
+    "<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\":\"2e43d9440690412393887a2b38c21057\"}'></script>"
+    "
+      <meta charset='UTF-8'>
+      <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+      <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    "
 )
 (body
     (header
@@ -16,6 +21,10 @@
                 (a href="https://link.fivnex.co/join" "Fivnex discord")
             )
         )
+    )
+
+    (footer
+        (p "&#169; Fivnex 2021. This was the first website made using meml")
     )
 
     (import "./index.css")
